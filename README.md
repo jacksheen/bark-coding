@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/latest%20release-0.1.7-green?style=for-the-badge&logo=electron&logoColor=green)
 
 <a href="https://discord.com/invite/hXmHw7H9BF">![Bark Coding Discord](https://discord.com/api/guilds/1225552735445843978/embed.png)</a>
-<br />
+\n
 *The API source code is hosted at https://github.com/dumorando/bapiv2*
 
 # Description
